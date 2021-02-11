@@ -1,0 +1,8 @@
+Gitの練習をしてきます。
+基本的なワークフローを学べます
+
+・git add
+・git commit
+・git remove
+・git status
+・git diff
